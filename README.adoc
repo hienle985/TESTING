@@ -11,5 +11,5 @@ set this target definition as target platform for your workspace.
 
 When the compile errors are gone the target platform has been properly set and the product located
  in the com.example.e4.rcp.todo.product project can be run.
-TESTING
+TESTING2
 
